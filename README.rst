@@ -1,3 +1,8 @@
+This is a temporary repo for the NEO blockchain adapter. The patch applied here is already in the upstream development branch of neo-python. Eventually, when that fix is applied to a stable version of neo-python, we can continue using that package. Until now, this repository should be used to create NEO transactions.
+
+Original repo: https://github.com/CityOfZion/neo-python
+PR for fix: https://github.com/CityOfZion/neo-python/pull/903
+
 .. image:: http://res.cloudinary.com/vidsy/image/upload/v1503160820/CoZ_Icon_DARKBLUE_200x178px_oq0gxm.png
     :alt: CoZ logo
 
